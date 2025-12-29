@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Mi unidad/Proyectos y Dicplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/NS_Cosa.uasset",
+				"G:/Mi unidad/Proyectos y Dicplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/M_ComoBanana.uasset",
+				"G:/Mi unidad/Proyectos y Dicplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/Sprite_Sheet.uasset",
+				"G:/Mi unidad/Proyectos y Dicplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/M_Espiral.uasset",
+				"G:/Mi unidad/Proyectos y Dicplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/M_TornadoFire.uasset",
+				"G:/Mi unidad/Diplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/M_TornadoFire.uasset",
+				"G:/Mi unidad/Diplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/SM_Tornado.uasset",
+				"G:/Mi unidad/Diplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/NS_FireTornado.uasset",
+				"G:/Mi unidad/Diplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/Materials/M_Material1.uasset",
+				"G:/Mi unidad/Diplomados/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/T_Noise.uasset",
+				"D:/UE5/Diplo_VFX55/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/NS_SpritesEjemplo.uasset",
+				"D:/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/Materials/M_Material1.uasset",
+				"D:/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/Materials/M_Material2.umap",
+				"D:/UE5/Diplo_VFX55/Content/StarterContent/Materials/M_Basic_Wall.uasset",
+				"D:/UE5/Diplo_VFX55/Content/Diplo/VFX_Niagaras/VFX_1/SM_Tornado.uasset"
+			]
+		}
+	]
+}
